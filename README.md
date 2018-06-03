@@ -1,6 +1,10 @@
 # DeepImageAnalogy
 Pytorch implementation of [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/pdf/1705.01088.pdf)
 
+# Someresults
+
+![results](https://github.com/Kexiii/DeepImageAnalogy/blob/master/results.png)
+
 # Usage
 ```
 python main.py -g 0 --A_PATH XX --BP_PATH XXX
